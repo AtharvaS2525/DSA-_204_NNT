@@ -18,4 +18,6 @@ FAQ'S:
 
 8.Explain the term degree and height of tree. Ans:Degree of tree : The number of subtrees of a node is called as its degree. Height or depth of tree: It is the maximum level of any node in the tree.
 
-9.Draw representation of tree using Linked List and array. Screenshot 2026-10-26 224354
+9.Draw representation of tree using Linked List and array.
+<img width="921" height="359" alt="image" src="https://github.com/user-attachments/assets/0edb2a55-31d8-4a63-abee-4c473e26ca1d" />
+
