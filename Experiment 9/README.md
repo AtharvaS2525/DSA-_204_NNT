@@ -1,1 +1,21 @@
 <img width="253" height="241" alt="Screenshot 2026-10-14 143952" src="https://github.com/user-attachments/assets/251e1030-75e9-4fc5-887f-6deed8a34b87" />
+
+FAQ'S:
+
+1.What is tree? Ans: Tree is a nonlinear data structure used for hierarchical data management.
+
+2.What is binary tree? Ans:A binary tree is an empty tree or it is finite set of nodes with root and two disjoint binary trees called left subtree and right subtree.
+
+3.What are the types of Binary tree. Ans:Complete binary tree,Full binary tree,binary search tree, Skewed binary tree ,threaded binary tree etc.
+
+4.What are tree traversal techniques. Ans:1)Recursive 2)Non recursive
+
+5.What are recursive tree traversal techniques. Ans: 1)Inorder 2)Preorder 3)Postorder
+
+6.What are AVL trees> Ans: AVL trees are height balanced trees.
+
+7.What are the basic operations that can be performed with tree? Ans: 1)Create 2)Search3)Traversal etc
+
+8.Explain the term degree and height of tree. Ans:Degree of tree : The number of subtrees of a node is called as its degree. Height or depth of tree: It is the maximum level of any node in the tree.
+
+9.Draw representation of tree using Linked List and array. Screenshot 2026-10-26 224354
